@@ -37,7 +37,7 @@ sudo wget https://raw.githubusercontent.com/simonmonk/clever_card_kit/master/MFR
 * [SPI-Py](https://github.com/simonmonk/SPI-Py) - Hardware SPI C extension for Python from Simon Monk
 * [SimpleMFRC522 and MFRC522 Python libraries](https://github.com/simonmonk/clever_card_kit) Also from Simon Monk
 
-
+[Go and buy Simon's clever card kit, it is great!](https://www.monkmakes.com/cck/)
 
 
 ## License
