@@ -27,6 +27,10 @@ sudo wget https://raw.githubusercontent.com/simonmonk/clever_card_kit/master/Sim
 sudo wget https://raw.githubusercontent.com/simonmonk/clever_card_kit/master/MFRC522.py
 ```
 
+## Circuit Diagram
+
+![alt](https://raw.githubusercontent.com/lesp/Electromaker-RFID/master/RFID-Circuit_bb.png)
+
 ## Acknowledgements
 
 * [SPI-Py](https://github.com/simonmonk/SPI-Py) - Hardware SPI C extension for Python from Simon Monk
