@@ -1,3 +1,4 @@
+![alt](https://www.electromaker.io/images/base/electromaker-logo.jpg)
 # Electromaker RFID Application Interface
 
 Start applications on your Raspberry Pi using nothing more than RFID tags / cards.
