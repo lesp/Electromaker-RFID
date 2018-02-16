@@ -15,7 +15,8 @@ try:
         #print(text)
         file.write(str(id)+"\n")
         sleep(1)
-finally:
+except KeyboardInterrupt:
     print("cleaning up")
     GPIO.cleanup()
     file.close()
+
